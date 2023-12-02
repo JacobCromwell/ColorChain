@@ -1,0 +1,15 @@
+{
+    "name": "ColorChain",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "JCromwell",
+    "license": "ISC",
+    "dependencies": {
+      "canvas": "^2.11.2"
+    }
+  }
+  
